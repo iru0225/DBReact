@@ -51,6 +51,58 @@
         "totalAppsObject": 220
     }
   ],
+  "project": [
+    {
+        "id" : 1,
+        "projectName": "Project A",
+        "totalAppsObject": 200
+    },
+    {
+        "id" : 2,
+        "projectName": "Project B",
+        "totalAppsObject": 150
+    },
+    {
+        "id" : 3,
+        "projectName": "Project C",
+        "totalAppsObject": 125
+    },
+    {
+        "id" : 4,
+        "projectName": "Project D",
+        "totalAppsObject": 250
+    },
+    {
+        "id" : 5,
+        "projectName": "Project E",
+        "totalAppsObject": 220
+    },
+    {
+        "id" : 6,
+        "projectName": "Project F",
+        "totalAppsObject": 200
+    },
+    {
+        "id" : 7,
+        "projectName": "Project G",
+        "totalAppsObject": 150
+    },
+    {
+        "id" : 8,
+        "projectName": "Project H",
+        "totalAppsObject": 125
+    },
+    {
+        "id" : 9,
+        "projectName": "Project I",
+        "totalAppsObject": 250
+    },
+    {
+        "id" : 10,
+        "projectName": "Project J",
+        "totalAppsObject": 220
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
